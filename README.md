@@ -25,7 +25,14 @@ _Використаю в майбутньому:_
   -  не буду обмежувати свою обізнаність;
 
 
-- [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
+- [x] [Git за 30 хвилин](https://codeguida.com/post/453)
+`2022-09-11 17:44`
+
+_Нове:_
+   - робота з віддаленими репозиторіями `git remote add; git push origin [branch]`;
+
+_Використаю в майбутньому:_
+  - можливості _.gitignore_;
 
 - [x] [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
 `2022-09-07 19:18`
@@ -39,10 +46,16 @@ _Здивувало:_
 _Використаю в майбутньому:_
   - можливість атомарних змін (одна правка - один commit);
 
+- [x] [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+- [x] [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
-- [ ] [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+`2022-09-11 18:17` (один відгук на 2 статті про merge conflicts)
 
-- [ ] [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
+_Нове:_
+   - merge-конфлікти можуть виникати у випадку видалення файлу;
+
+_Використаю в майбутньому:_
+  - вбудований в github редактор конфліктів;
 
 - [x] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 `2022-09-10 20:33`
@@ -58,11 +71,33 @@ _Використаю в майбутньому:_
    - Дуже зручно користуватись при оформленні сторінок типу README та іншої документації;
 
 
-- [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+- [x] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+
+`2022-09-11 18:36`
+_Нове:_
+   - кількість інструментів, які використовуються для роботи з фронтендом;
+
+_Здивувало:_
+   - це якась "кроляча нора", понад 20 технологій/фреймворків;
+   - а якщо перейти по посиланням, то ще по 20 (як у тій історії про винайдення шахів `;-((` );
+
+_Використаю в майбутньому:_
+   - краще використати це посилання як довідник - шукати там інформацію при виникненні питань (або ж для розширення обізнаності);
 
 - [x] [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 
 `2022-09-08 20:58`
 Typingclub - гарний клавіатурний тренажер. Є можливість тренуватись в наборі латиницею. Займаюсь ще з 2019 року.
 
-- [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
+- [x] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) 
+`2022-09-10 22:14`
+
+_Нове:_
+   - програмування (витривалість+концетрація) - це навичка, яку треба можна розвивати;
+   - "відкритість" допомагає досягти прогресу;
+
+_Здивувало:_
+   - свідомість може творити спротив(навіть з реальними фізичними симптомами);
+
+_Використаю в майбутньому:_
+   - відстежуй прогресс(а якщо його довго немає - змінюй підход);
