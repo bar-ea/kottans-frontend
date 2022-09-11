@@ -46,10 +46,16 @@ _Здивувало:_
 _Використаю в майбутньому:_
   - можливість атомарних змін (одна правка - один commit);
 
+- [x] [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+- [x] [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
-- [ ] [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+`2022-09-11 18:17` (один відгук на 2 статті про merge conflicts)
 
-- [ ] [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
+_Нове:_
+   - merge-конфлікти можуть виникати у випадку видалення файлу;
+
+_Використаю в майбутньому:_
+  - вбудований в github редактор конфліктів;
 
 - [x] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 `2022-09-10 20:33`
