@@ -25,7 +25,14 @@ _Використаю в майбутньому:_
   -  не буду обмежувати свою обізнаність;
 
 
-- [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
+- [x] [Git за 30 хвилин](https://codeguida.com/post/453)
+`2022-09-11 17:44`
+
+_Нове:_
+   - робота з віддаленими репозиторіями `git remote add; git push origin [branch]`;
+
+_Використаю в майбутньому:_
+  - можливості _.gitignore_;
 
 - [x] [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
 `2022-09-07 19:18`
