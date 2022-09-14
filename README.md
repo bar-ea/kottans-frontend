@@ -101,3 +101,44 @@ _Здивувало:_
 
 _Використаю в майбутньому:_
    - відстежуй прогресс(а якщо його довго немає - змінюй підход);
+
+
+## Linux CLI, and HTTP
+
+  ![Завершення модулю 1](./task_linux_cli/module1.png)
+  ![Завершення модулю 2](./task_linux_cli/module2.png)
+  ![Завершення модулю 3](./task_linux_cli/module3.png)
+  ![Завершення курсу](./task_linux_cli/module4.png)
+
+- [x] Linux Survival
+
+_Нове:_
+   - робота з принтером;
+
+_Здивувало:_
+   - я вже знайомий з командним рядком linux, тому здивований не був;
+
+_Використаю в майбутньому:_
+   - pipe `|`;
+   - grep;
+
+- [x] HTTP: Протокол, який повинен розуміти кожний веб-розробник
+
+_Нове:_
+   - ознайомився з особливостями протоколу HTTP, сформував загальне уявлення;
+
+__Додаткові матеріали__
+- [x] [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+
+_Здивувало:_
+   - за 2 місяці (8 тижнів) автор написав свій перший проект;
+
+_Використаю в майбутньому:_
+   - спробую повторити шлях автора;
+
+- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path)
+
+__Опціонально__
+- [ ] [Command Line Power User](https://commandlinepoweruser.com/)
+- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+- [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
