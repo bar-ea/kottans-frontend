@@ -142,3 +142,32 @@ __Опціонально__
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/)
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
+
+## Git Collaboration
+
+- [x] Introduction to Git and GitHub(тижні 3 і 4)
+
+_Нове:_
+   - review кода;
+   - Continious integration & continiuos delivery;
+
+_Здивувало:_
+   - Continious integration & continiuos delivery;
+
+_Використаю в майбутньому:_
+   - CI/CD;
+
+- [x] learngitbranching.js.org віддалені репозиторії
+
+_Нове:_
+   - робота з віддаленими репозиторіями, гілками;
+   - опція `cherry-pick`;
+
+_Здивувало:_
+   - використання `git push origin` та `git fetch origin` без джерела;
+
+_Використаю в майбутньому:_
+   - буду використовувати роботу з віддаленими репозиторіями/гілками, оскільки це потужний інструмент в командній розробці;
+   - `git cherry-pick`;
+   - `git rebase`;
