@@ -146,6 +146,11 @@ __Опціонально__
 
 ## Git Collaboration
 
+  ![Introduction to Git and GitHub, тиждень 3: пройдено](./task_git_collaboration/week3.png)
+  ![Introduction to Git and GitHub, тиждень 4: пройдено](./task_git_collaboration/week4.png)
+  ![Git. Main. Moving work around.](./task_git_collaboration/git3-1.png)
+  ![Git. Remote. To Origin and Beyond -- Advanced Git Remotes!](./task_git_collaboration/git3-2.png)
+
 - [x] Introduction to Git and GitHub(тижні 3 і 4)
 
 _Нове:_
