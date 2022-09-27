@@ -176,3 +176,12 @@ _Використаю в майбутньому:_
    - буду використовувати роботу з віддаленими репозиторіями/гілками, оскільки це потужний інструмент в командній розробці;
    - `git cherry-pick`;
    - `git rebase`;
+
+
+  ## Intro to HTML and CSS
+
+
+
+  - [ ] Introduction to responsive design (Coursera; тиждень 1 та тиждень 2);
+  - [ ] Learn HTML(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
+  - [ ] Learn CSS(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
