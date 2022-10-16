@@ -180,8 +180,20 @@ _Використаю в майбутньому:_
 
   ## Intro to HTML and CSS
 
+  - [x] Introduction to responsive design (Coursera; тиждень 1 та тиждень 2);
+  - [x] Learn HTML(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
+  - [x] Learn CSS(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
 
+  _Нове:_
+   - CSS position: sticky;
+   - `<meta name="viewport" `;
 
-  - [ ] Introduction to responsive design (Coursera; тиждень 1 та тиждень 2);
-  - [ ] Learn HTML(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
-  - [ ] Learn CSS(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
+_Здивувало:_
+   - семантична розмітка HTML;
+   - розробка _"mobile first"_;
+
+_Використаю в майбутньому:_
+   - семантична розмітка HTML; 
+   - CSS grids;
+   - CSS float;
+   - responsible design;
