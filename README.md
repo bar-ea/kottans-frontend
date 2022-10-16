@@ -184,7 +184,7 @@ _Використаю в майбутньому:_
   - [x] Learn HTML(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
   - [x] Learn CSS(Eng) ([https://www.codeacademy.com](https://www.codeacademy.com));
 
-    ![HTML studied](./task_html_css_intro/)
+    ![HTML studied](./task_html_css_intro/done.png)
 
   _Нове:_
    - CSS position: sticky;
