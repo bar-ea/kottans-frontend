@@ -199,3 +199,21 @@ _Використаю в майбутньому:_
    - CSS grids;
    - CSS float;
    - responsible design;
+
+
+  ## Responsive web design
+
+  - [ ] Responsive web design basics
+  - [ ] FLEXBOX. Вчимося верстати на флексах
+  - [ ] Flexbox Froggy
+  - [ ] CSS Grid Layout
+  - [ ] Grid Garden
+
+  _Нове:_
+   - Flexbox layout;
+
+  _Здивувало:_
+   - 
+
+  _Використаю в майбутньому:_
+   - ; 
