@@ -203,17 +203,21 @@ _Використаю в майбутньому:_
 
   ## Responsive web design
 
-  - [ ] Responsive web design basics
-  - [ ] FLEXBOX. Вчимося верстати на флексах
-  - [ ] Flexbox Froggy
-  - [ ] CSS Grid Layout
-  - [ ] Grid Garden
+  - [x] Responsive web design basics
+  - [x] FLEXBOX. Вчимося верстати на флексах
+  - [x] Flexbox Froggy
+  - [x] CSS Grid Layout
+  - [x] Grid Garden
+
 
   _Нове:_
    - Flexbox layout;
+   - Grid layout;
+   - Columns layout;
 
   _Здивувало:_
    - 
 
   _Використаю в майбутньому:_
-   - ; 
+   - Flexbox макет;
+   - Grid макет; 
