@@ -198,7 +198,7 @@ _Використаю в майбутньому:_
    - семантична розмітка HTML; 
    - CSS grids;
    - CSS float;
-   - responsible design;
+   - responsive design;
 
 
   ## Responsive web design
@@ -208,6 +208,9 @@ _Використаю в майбутньому:_
   - [x] Flexbox Froggy
   - [x] CSS Grid Layout
   - [x] Grid Garden
+
+  ![flexboxfroggy done](./task_responsive_web_design/flexboxfroggy.png)
+  ![gridgarden done](./task_responsive_web_design/gridgarden.png)
 
   _Нове:_
    - Flexbox layout;
