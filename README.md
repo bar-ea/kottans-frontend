@@ -198,4 +198,28 @@ _Використаю в майбутньому:_
    - семантична розмітка HTML; 
    - CSS grids;
    - CSS float;
-   - responsible design;
+   - responsive design;
+
+
+  ## Responsive web design
+
+  - [x] Responsive web design basics
+  - [x] FLEXBOX. Вчимося верстати на флексах
+  - [x] Flexbox Froggy
+  - [x] CSS Grid Layout
+  - [x] Grid Garden
+
+  ![flexboxfroggy done](./task_responsive_web_design/flexboxfroggy.png)
+  ![gridgarden done](./task_responsive_web_design/gridgarden.png)
+
+  _Нове:_
+   - Flexbox layout;
+   - Grid layout;
+   - Columns layout;
+
+  _Здивувало:_ (ну може не здивувало, а приємно вразило)
+   - "автоматичне" розташування елементів в контейнерах flex та grid;
+
+  _Використаю в майбутньому:_
+   - Flexbox макет;
+   - Grid макет; 
