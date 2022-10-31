@@ -1,7 +1,22 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+
 
 div.content {
   max-width: 1000px;
@@ -16,6 +31,7 @@ div.content {
 
 .navi {
   flex: none;
+  border: 1px black dotted;
 }
 .main-content {
   flex: 1 1 auto;
@@ -24,3 +40,23 @@ div.content {
   flex: none;
 }
 
+.navi ul {
+  display: flex;
+  flex-flow: row no-wrap;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navi ul li {
+  color: #999999;
+  font-weight: 600;
+
+  list-style: none;
+  border: 1px green dashed;
+  padding: 0.5em 2em;
+}
+
+.navi li img{
+  width: 3em;
+  height: 3em;
+}
